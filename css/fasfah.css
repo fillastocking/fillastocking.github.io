@@ -214,3 +214,11 @@ div.tabL {
    display:block;
    margin:auto;
 }
+
+#dinner {
+  background: url("../img/holiday-dinner-bg.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
